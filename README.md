@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Kent Tran
+About Me
+
+Tech Stack
+
+Contact
+Email: 
+Website/Portfolio: 
+LinkedIn:
+GitHub: @yourhandle
