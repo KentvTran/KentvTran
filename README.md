@@ -14,14 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Kent Tran  
+i will fill in readme later if you are currently reading this
+## About Me  
 
-Kent Tran
-About Me
 
-Tech Stack
+## Tech Stack  
+- Languages:  
+- Frontend:  
+- Backend:  
+- Tools:  
 
-Contact
-Email: 
-Website/Portfolio: 
-LinkedIn:
-GitHub: 
+## Resume  
+[View My Resume]
+
+## Contact  
+- **Email:**  
+- **Website/Portfolio:**  
+- **LinkedIn:**  
+- **GitHub:**  
