@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 ## About Me  
 
 ## Tech Stack  
-Languages: Python, C/C++, SQL, R, JavaScript
-Web Development: React, Express, NodeJS, JavaScript, HTML, CSS
-AI/DS: SKLearn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow
-Platforms & Tooling: Git, Linux
+
+### Languages  
+Python, C/C++, SQL, R, JavaScript  
+### Web Development  
+React, Express, Node.js, JavaScript, HTML, CSS  
+### AI & Data Science  
+Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow  
+### Platforms & Tooling  
+Git, Linux  
 
 ## Resume  
 [View My Resume]
