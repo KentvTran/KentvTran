@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **KentvTran/KentvTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,21 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kent Tran  
-i will fill in readme later if you are currently reading this
 ## About Me  
 
-
 ## Tech Stack  
-- Languages:  
-- Frontend:  
-- Backend:  
-- Tools:  
+Languages: Python, C/C++, SQL, R, JavaScript
+Web Development: React, Express, NodeJS, JavaScript, HTML, CSS
+AI/DS: SKLearn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow
+Platforms & Tooling: Git, Linux
 
 ## Resume  
 [View My Resume]
 
 ## Contact  
-- **Email:**  
-- **Website/Portfolio:**  
-- **LinkedIn:**  
-- **GitHub:**  
+<!--
+- **Website/Portfolio:**  -->
+- **LinkedIn:** https://www.linkedin.com/in/kent-tran-cs/
+- **GitHub:** https://github.com/KentvTran
