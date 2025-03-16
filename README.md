@@ -26,7 +26,7 @@ Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow
 Git, Linux  
 
 ## Resume  
-[View My Resume](https://github.com/KentvTran/KentvTran/Resume.pdf)
+[View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Resume.pdf)
 
 ## Contact  
 <!--
