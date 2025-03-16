@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 # Kent Tran  
 ## About Me  
-
+Computer Science Student at California State University, Fullerton
 ## Tech Stack  
-
 ### Languages  
 Python, C/C++, SQL, R, JavaScript  
 ### Web Development  
