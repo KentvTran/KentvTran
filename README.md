@@ -19,13 +19,13 @@ Computer Science Student at California State University, Fullerton
 ### Languages  
 Python, C/C++, SQL, R, JavaScript  
 ### Web Development  
-React, Express, Node.js, JavaScript, HTML, CSS  
+React, Express, Node.js, HTML, CSS  
 ### AI & Data Science  
 Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow  
 ### Cloud & Infrastructure  
 AWS, Docker, Terraform  
 ### Platforms & Tooling  
-Git, Linux, Firebase, MongoDB
+Git, Linux, GitHub Actions, Firebase, MongoDB
 
 ## Resume  
 [View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Resume.pdf)
