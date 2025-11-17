@@ -22,8 +22,10 @@ Python, C/C++, SQL, R, JavaScript
 React, Express, Node.js, JavaScript, HTML, CSS  
 ### AI & Data Science  
 Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow  
+### Cloud & Infrastructure  
+AWS, Docker, Terraform  
 ### Platforms & Tooling  
-Git, Linux  
+Git, Linux, Firebase, MongoDB
 
 ## Resume  
 [View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Resume.pdf)
