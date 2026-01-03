@@ -28,7 +28,7 @@ AWS, Docker, Terraform
 Git, Linux, GitHub Actions, Firebase, MongoDB
 
 ## Resume  
-[View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Resume.pdf)
+[View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Kent%20Resume%2001-26.pdf)
 
 ## Contact  
 <!--
