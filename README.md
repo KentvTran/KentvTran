@@ -30,8 +30,7 @@ Git, Linux, GitHub Actions, Firebase, MongoDB
 ## Resume  
 [View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Kent%20Resume%2001-26.pdf)
 
-## Contact  
-<!--
-- **Website/Portfolio:**  -->
+## Contact 
+- **Website/Portfolio: https://kentvtran.dev/
 - **LinkedIn:** https://www.linkedin.com/in/kent-tran-cs/
 - **GitHub:** https://github.com/KentvTran
