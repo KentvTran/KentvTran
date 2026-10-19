@@ -14,21 +14,27 @@ Here are some ideas to get you started:
 -->
 # Kent Tran  
 ## About Me  
-Computer Science Student at California State University, Fullerton
+Computer Science graduate from California State University, Fullerton (B.S., May 2026, Summa Cum Laude) with a minor in Data Science.
 ## Tech Stack  
 ### Languages  
 Python, C/C++, SQL, R, JavaScript  
+### Cloud & DevOps  
+AWS, CloudFormation, Terraform, GitHub Actions, Docker
 ### Web Development  
 React, Express, Node.js, HTML, CSS  
 ### AI & Data Science  
 Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, PyTorch, TensorFlow  
-### Cloud & Infrastructure  
-AWS, Docker, Terraform  
 ### Platforms & Tooling  
-Git, Linux, GitHub Actions, Firebase, MongoDB
+Git, Linux, Firebase, MongoDB
+
+## Certifications
+- AWS Certified AI Practitioner (2026)
+- AWS Certified Cloud Practitioner (2026)
+- Google AI Professional Certificate (2026)
+- CodePath Advanced AI-Native Software Engineering: Open Source Capstone (2026)
 
 ## Resume  
-[View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Kent%20Resume%2001-26.pdf)
+[View My Resume](https://github.com/KentvTran/KentvTran/blob/main/Kent%20Resume%2010-26.pdf)
 
 ## Contact 
 - **Website/Portfolio:** https://kentvtran.dev/
